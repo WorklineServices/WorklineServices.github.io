@@ -368,11 +368,11 @@ h6 {
   color: #d43076;
 }
 
-@media (min-width: 380px) {
+@media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
-	background-size:cover;
-	
+    background-size:cover;
+
   }
 }
 
